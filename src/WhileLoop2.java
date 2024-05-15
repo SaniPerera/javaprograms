@@ -7,8 +7,7 @@ public class WhileLoop2 {
         while(i <= 10){
             sum = sum +i;
             i++;
-
-            System.out.println(sum);
         }
+        System.out.println(sum);
     }
 }
